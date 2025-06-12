@@ -61,7 +61,7 @@ Download from:
 [Git](https://git-scm.com/downloads)
 
 ```bash
-git clone https://github.com/lantas-bit/Auto-post
+git clone https://github.com/LRiqlapa/Auto-Post-discord
 cd Auto-post
 ```
 **Before installing required packages on cmd or powershell read this:**
