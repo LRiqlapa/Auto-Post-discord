@@ -6,7 +6,7 @@ original source: https://github.com/lantas-bit/Auto-post
 
 > Warning: This tool breaks Discord Terms of Service. Use at your own risk. I’m not responsible for any bans or consequences.
 
-[Mu Discord Server](https://discord.com/invite/psdQaVEnHt)
+[My Discord Server](https://discord.com/invite/psdQaVEnHt)
 
 [Lantas Discord Server](https://discord.com/invite/M9cD8ZC5m8)
 
