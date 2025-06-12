@@ -2,9 +2,13 @@
 
 This project auto-posts messages to Discord channels with interval and optional webhook logging.
 
+original source: https://github.com/lantas-bit/Auto-post
+
 > Warning: This tool breaks Discord Terms of Service. Use at your own risk. I’m not responsible for any bans or consequences.
 
-[My Discord Server](https://discord.com/invite/M9cD8ZC5m8)
+[Mu Discord Server](https://discord.com/invite/psdQaVEnHt)
+
+[Lantas Discord Server](https://discord.com/invite/M9cD8ZC5m8)
 
 ## Setup Instructions on termux
 
@@ -81,4 +85,5 @@ Open your browser and visit:
 ```http://localhost:5000```
 
 # Screenshot
-![Screenshot](screenshot.png)
+![Screenshot (57)](https://github.com/user-attachments/assets/125a8c6d-1427-4a3d-a985-5b1120e492f2)
+
