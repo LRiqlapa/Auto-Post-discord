@@ -62,7 +62,7 @@ Download from:
 
 ```bash
 git clone https://github.com/LRiqlapa/Auto-Post-discord
-cd Auto-post
+cd Auto-post-discord
 ```
 **Before installing required packages on cmd or powershell read this:**
 
