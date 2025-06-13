@@ -35,14 +35,14 @@ def send_log(message, channel_id=None, success=True):
         try:
             now = time.strftime("%d %B %Y  %I:%M:%S %p")
             embed = {
-                "title": "🎁 Auto Post Discord 🎁",
+                "title": "<a:ms_discord:1129069176917610619> Auto Post Discord <a:ms_discord:1129069176917610619>",
                 "description": "> **Details Info**",
                 "color": 65280 if success else 16711680,
                 "fields": [
-                    {"name": "🟢 Status Log", "value": "> Success" if success else "> Failed"},
-                    {"name": "🕓 Date Time", "value": f"> {now}"},
-                    {"name": "📺 Channel Target", "value": f"> <#{channel_id}>" if channel_id else "> Unknown"},
-                    {"name": "✅ Status Message", "value": f"> {message}"}
+                    {"name": "<a:live:1247888274161143878> Status Log", "value": "> Success" if success else "> Failed"},
+                    {"name": "<:BS_Time:1182386606661972099> Date Time", "value": f"> {now}"},
+                    {"name": "<:discord:1263889532688797727> Channel Target", "value": f"> <#{channel_id}>" if channel_id else "> Unknown"},
+                    {"name": "<a:ki_verify:1193420850511224913> Status Message", "value": f"> {message}"}
                 ],
                 "footer": {"text": "Auto Post By Lantas Continental. design By Void_String"}
             }
