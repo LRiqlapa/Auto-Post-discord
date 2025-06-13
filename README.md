@@ -18,9 +18,11 @@ original source: https://github.com/lantas-bit/Auto-post
 
 **Clone the repo & install requirements:**
 ```bash
-pkg update && pkg install git python -y
+pkg update
+pkg install git
+pkg install python -y
 git clone https://github.com/LRiqlapa/Auto-Post-discord
-cd Auto-post-discord
+cd Auto-Post-discord
 pip install flask requests
 ```
 
@@ -62,7 +64,7 @@ Download from:
 
 ```bash
 git clone https://github.com/LRiqlapa/Auto-Post-discord
-cd Auto-post-discord
+cd Auto-Post-discord
 ```
 **Before installing required packages on cmd or powershell read this:**
 
