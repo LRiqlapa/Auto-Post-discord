@@ -87,6 +87,9 @@ Open your browser and visit:
 ```http://localhost:5000```
 
 # Screenshot
-![Screenshot (57)](https://github.com/user-attachments/assets/125a8c6d-1427-4a3d-a985-5b1120e492f2)
+<img width="440" height="300" alt="Screenshot (440)" src="https://github.com/user-attachments/assets/9b79e2ca-ce02-4ab6-b3a9-1214c516e2eb" />
 
-![Screenshot_2025-06-13-10-53-05-882_com kiwibrowser browser](https://github.com/user-attachments/assets/6b59c998-e405-483c-9faf-95a619e0d7c7)
+<img width="300" height="600" alt="Screenshot (440)" src="https://github.com/user-attachments/assets/42a09478-cd4c-4328-bc3d-cc37164c8010" />
+
+
+
